@@ -1,0 +1,39 @@
+{
+	"LOADING": "جار التحميل &hellip;",
+
+	"TODAY": "اليوم",
+	"TOMORROW": "غدا",
+	"DAYAFTERTOMORROW": "بعد غد",
+	"RUNNING": "ينتهي بـ",
+	"EMPTY": "لا توجد أحداث قادمة",
+
+	"WEEK": "أسبوع {weekNumber}",
+
+	"N": "شمال",
+	"NNE": "بين الشمال والشمال الشرقي",
+	"NE": "شمال شرقي",
+	"ENE": "بين الشرق والشمال الشرقي",
+	"E": "شرق",
+	"ESE": "بين الشرق والجنوب الشرقي",
+	"SE": "جنوب شرقي",
+	"SSE": "بين الجنوب والجنوب الشرقي",
+	"S": "جنوب",
+	"SSW": "بين الجنوب والجنوب الغربي",
+	"SW": "جنوب غربي",
+	"WSW": "بين الغرب والجنوب الغربي",
+	"W": "غرب",
+	"WNW": "بين الغرب والشمال الغربي",
+	"NW": "شمال غربي",
+	"NNW": "بين الشمال والشمال الغربي",
+
+	"MODULE_CONFIG_CHANGED": "{MODULE_NAME}تم تغيير خيارات الوحدات النمطية لـ. n\يرجى التحقق من الوثائق",
+
+
+	"UPDATE_NOTIFICATION": ".MagicMirror²التحديث متوفر للـ",
+	"UPDATE_NOTIFICATION_MODULE": ".{MODULE_NAME}التحديث متاح لوحدةالـ,
+	"UPDATE_INFO_SINGLE": "The current installation is {COMMIT_COUNT} commit behind on the {BRANCH_NAME} branch.",
+	"UPDATE_INFO_MULTIPLE": "The current installation is {COMMIT_COUNT} commits behind on the {BRANCH_NAME} branch.",
+
+	"FEELS": "ماتشعر به",
+	"PRECIP": "عرض"
+}
